@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="message">Message</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="thank_message">Thank you for the feedback</string>
+    <string name="error_message"><![CDATA[Enter name & message]]></string>
+</resources>
